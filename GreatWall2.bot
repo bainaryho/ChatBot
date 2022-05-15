@@ -1,0 +1,18 @@
+{
+    "name": "GreatWall2",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3984/api/messages",
+            "id": "c540c250-b566-11ec-83ba-29c1ba09a16b",
+            "name": "http://localhost:3984/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\startUpProject\\GreatWall2.bot"
+}
