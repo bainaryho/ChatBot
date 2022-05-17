@@ -10,7 +10,7 @@ namespace GreatWall.Helpers
 {
     public static class SQLHelper
     {
-        private const string strDBServer = "Server=tcp:greatwallserver2.database.windows.net,1433;Initial Catalog=GreatwallDB;Persist Security Info=False;User ID=ljh;Password=wlsgh233!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+        private const string strDBServer = "Server=tcp:greatall-db-server.database.windows.net,1433;Initial Catalog=GreatWallDB;Persist Security Info=False;User ID=rlf123wkd;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
 
         public static DataSet RunSQL(string strQuery)
         {
