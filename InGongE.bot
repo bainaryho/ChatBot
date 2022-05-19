@@ -1,0 +1,18 @@
+{
+    "name": "InGongE",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3984/api/messages",
+            "id": "72a58d60-d676-11ec-8768-992b630351bc",
+            "name": "http://localhost:3984/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\startUpProject\\InGongE.bot"
+}
